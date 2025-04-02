@@ -1,5 +1,7 @@
 # MultiCloud in Git Together
 
+![Diagram](https://github.com/alexlondon07/multicloud-in-git-together-lab/blob/main/diagram.png)
+
 Este repositorio demuestra la integración de servicios multi-nube con flujos de trabajo en Git. Incluye ejemplos de despliegue de funciones en plataformas como Azure y AWS Lambda.
 
 ## Features
